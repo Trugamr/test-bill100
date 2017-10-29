@@ -1,0 +1,18 @@
+{
+  "name": "bill100-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "trugamr",
+  "license": "ISC",
+  "dependencies": {
+    "billboard-top-100": "^2.0.7"
+  },
+  "engines": {
+    "node": "8.8.1"
+  }
+}
